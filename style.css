@@ -1,0 +1,38 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: lightblue;
+    }
+    
+    .header_div {
+    background: lightpink;
+    color: rgb(78, 77, 77);
+    }
+    
+    .header_div p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: normal;
+    }
+    
+    .main_div button{
+    font-family: sans-serif;
+    margin-top: 30px;
+    width:125px; 
+    font-weight: bolder;
+    letter-spacing: 2px;
+    }
+    
+    .copy_right_footer{
+    color:black;
+    width:100%; 
+    background-color: rgb(251, 211, 150);
+    font-size: 18px;
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px cornsilk;
+    }
+    
